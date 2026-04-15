@@ -33,3 +33,7 @@ echo "✅ 最终下载路径将自动创建为: $FINAL_DIR"
 ~/hfd.sh "$MODEL_ID" --local-dir "$FINAL_DIR"
 
 ```
+
+### https://hf-mirror.com
+
+<img width="1186" height="595" alt="image" src="https://github.com/user-attachments/assets/c8c18e13-6009-4bdb-9414-969a1f58150d" />
